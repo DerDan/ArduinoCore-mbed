@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+ln -s /home/df/CLionProjects/ArduinoCore-API /home/df/CLionProjects/ArduinoCore-mbed/cores/arduino

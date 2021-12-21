@@ -2,3 +2,5 @@ cores/arduino/api/
 cores/arduino/api*
 **/.vscode/
 **/.development
+cmake-build-*
+.idea
